@@ -1,7 +1,7 @@
 {
 	"id": "Obsidian2Prompt",
 	"name": "Obsidian2Prompt",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Obsidian Vault to an LLM prompt",
 	"author": "Alex Grace",
